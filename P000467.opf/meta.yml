@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG22690
   title: བོད་དབྱིན་ཚིག་མཛོད།
-  volume: ''
+  volume:
+    994a7d97b6e94d87b2bda4025fc58da8:
+      image_group_id: I1KG22732
+      title: Volume 1 of bod dbyn mdzod mdzod/
+      volume_number: 1
+      total_pages: 1278
   author: ''
+ebook_metadata:
+  title: བོད་དབྱིན་ཚིག་མཛོད།
+  author: ''
+  sku: P000467
+  cover: cover.jpg
+  layers:
+  - pagination
